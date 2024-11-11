@@ -1,11 +1,12 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
 
-// <weight>: Use a value from 100 to 900
+/* CSS Variables */
 
-.sour-gummy-<main> {
-  font-family: "Sour Gummy", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 200;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+:root {
+    --primary-font: sour-gummy, sans-serif;
+    --primary-color: #ffffff;
+    --highlight-color: #F89900;
+    --background-color: #1A4B56;
 }
+
