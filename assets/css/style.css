@@ -14,15 +14,17 @@
 
 body {
     font-family: var(--primary-font);
-    background color: var(--background-color);
-  }
-  
-  h1, h2, h3 {
+    background-color: var(--background-color);
+}
+
+h1,
+h2,
+h3 {
     font-family: var(--primary-font);
     color: var(--primary-color);
-  }
+}
 
-  /* Button Styles */
+/* Button Styles */
 
 .button {
     background-color: var(--highlight-color);
@@ -41,7 +43,7 @@ body {
     border-radius: 20px;
 }
 
-  /* Navbar Styles */
+/* Navbar Styles */
 
 .navbar {
     background-color: var(--primary-color);
@@ -69,7 +71,8 @@ body {
 
 /* Ensure the body and html take full height */
 
-html, body {
+html,
+body {
     height: 100%;
     margin: 0;
     display: flex;
@@ -91,7 +94,7 @@ html, body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5px 5px;
+    padding: 5px 15px;
 }
 
 .footer-section {
@@ -100,7 +103,8 @@ html, body {
     justify-content: center;
 }
 
-.footer p, .footer div {
+.footer p,
+.footer div {
     margin: 0;
 }
 
@@ -121,4 +125,3 @@ html, body {
     margin: 0 20px;
     align-self: center;
 }
-
