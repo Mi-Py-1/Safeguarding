@@ -51,18 +51,6 @@ The font was chosen with google fonts. The font is Sour Gummy:
 
 @import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
 
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
-
-.sour-gummy-<uniquifier> {
-  font-family: "Sour Gummy", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
 WireFrames:
 
 Wireframes have been drawn up on paper and images will be added to readme later.
