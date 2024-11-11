@@ -51,6 +51,7 @@ h3 {
     color: var(--background-color);
     font-family: var(--primary-font);
     padding: 5px 0;
+    border-bottom: 2px solid #F89900;
 }
 
 .navbar a {
@@ -68,6 +69,39 @@ h3 {
 
 body {
     background-color: var(--background-color);
+}
+
+/* Header */
+
+/* Hero Section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/DALL·E\ 2024-11-08\ 10.52.05\ -\ A\ colorful\,\ inviting\ illustration\ of\ a\ diverse\ family\ standing\ together\,\ including\ children\,\ adults\,\ and\ older\ people.\ They\ are\ being\ shielded\ from\ th.webp") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    /* Final rgba value sets the opacity so it is semi-transparent */
+    background-color: rgba(255, 255, 255, 0.7);
+    color: var(--background-color);
+    font-size: 130%;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    min-height: 50px;
+    padding-top: 5px;
+    padding-left:  10px;
+    border: 2px solid #F89900;
+}
+
+/* Ensure all text elements use --background-color */
+
+#cover-text h1,
+#cover-text p,
+#cover-text span,
+#cover-text a {
+    color: var(--background-color); 
 }
 
 /* Ensure the body and html take full height */
@@ -96,6 +130,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 5px 15px;
+    border-top: 2px solid #F89900;
 }
 
 .footer-section {
