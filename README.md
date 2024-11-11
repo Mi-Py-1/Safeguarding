@@ -14,12 +14,36 @@ Contents:
 
 Project Outline:
 
+<br>
+
 The Safeguarding Guide is a fictional organisation who's objective is to provide upto date information to both professionals and members of the public and will cover adults, children and animals. They will also provide training and community outreach. 
 
 The final deliverable will showcase aspects of my learning from the last 5 weeks in HTML, CSS, Bootstrap and AI support. It is important that the correct design choices are made for this to ensure that the site is responsive to modern devices, adheres to accessibility requirements and is aesthetically pleasing for a user to navigate. 
 
 Key Objectives:
 
+
+
+
+UX Design 
+
+<br>
+
+User Stories
+
+<br>
+
+Colours
+
+<br>
+
+The colour was chosen based on the main hero image. This was to ensure all aspects could be pulled together pleasingly. I used coolors.co to generate a pallet out of the image.
+
+Main Pallet:
+
+--white: #ffffff; text
+--midnight-green: #1A4B56; background
+--orange-peel: #F89900; highlight / hover
 
 
 
