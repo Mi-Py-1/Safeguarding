@@ -38,5 +38,65 @@ body {
     text-decoration: underline;
 }
 
-/* Footer Styles */
+/* Ensure the body and html take full height */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
 
+/* Main content should take all available space */
+.main-content {
+    flex: 1;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    font-family: var(--primary-font);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.footer-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer p, .footer div {
+    margin: 0;
+}
+
+.footer a {
+    color: var(--background-color);
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer i {
+    margin: 0 20px;
+}
+
+.newsletter-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.newsletter-form input {
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.newsletter-form button {
+    padding: 5px;
+}
