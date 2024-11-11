@@ -64,5 +64,9 @@ Images taken to be visually pleasing and reflect brand but to avoid being distre
 
 Features: 
 
-Navbar: 
+Navbar: I added a navbar using bootstrap and then styled this. I added a font awesome icon to make the website name appear more appealing and filled in some of the expected links. I styled the navbar using the pallete colors and included a "contact me" button to link to a later contact page and form.
+
+Footer: I added a basic navbar and included the font awesome icon to base the other information around. I added another "contact me" button and included some links for policy and copywrite information. I styled these and used copilot to support spacing.
+
+
 
