@@ -4,7 +4,7 @@
 /* CSS Variables */
 
 :root {
-    --primary-font: sour-gummy, sans-serif;
+    --primary-font: "sour gummy", sans-serif;
     --primary-color: #ffffff;
     --highlight-color: #F89900;
     --background-color: #1A4B56;
@@ -14,23 +14,29 @@
 
 body {
     font-family: var(--primary-font);
+    background color: var(--background-color);
   }
   
   h1, h2, h3 {
     font-family: var(--primary-font);
     color: var(--primary-color);
-  
   }
 
-/* Navbar styles with dropdown toggle */
-
-nav {
-    position: absolute;
-    background-color: #ffffff;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display: none;
-    top: 100%;
+  /* Navbar Styles */
+.navbar {
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    font-family: var(--primary-font);
 }
+
+.navbar a {
+    color: var(--background-color);
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Styles */
+
