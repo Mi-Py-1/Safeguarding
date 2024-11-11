@@ -47,6 +47,7 @@ body {
     background-color: var(--primary-color);
     color: var(--background-color);
     font-family: var(--primary-font);
+    padding: 5px 0;
 }
 
 .navbar a {
@@ -60,10 +61,11 @@ body {
     border-radius: 20px;
 }
 
-.nav-link active:hover {
-    color: var(--primary-color)
-}
+/* Body */
 
+body {
+    background-color: var(--background-color);
+}
 
 /* Ensure the body and html take full height */
 
@@ -89,7 +91,7 @@ html, body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 5px 5px;
 }
 
 .footer-section {
@@ -112,23 +114,11 @@ html, body {
     color: var(--highlight-color);
     background-color: var(--background-color);
     border-radius: 20px;
+    padding: 0 4px;
 }
 
 .footer i {
     margin: 0 20px;
+    align-self: center;
 }
 
-.newsletter-form {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 10px;
-}
-
-.newsletter-form input {
-    margin-bottom: 5px;
-    padding: 5px;
-}
-
-.newsletter-form button {
-    padding: 5px;
-}
