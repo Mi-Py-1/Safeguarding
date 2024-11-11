@@ -92,16 +92,19 @@ body {
     min-height: 50px;
     padding-top: 5px;
     padding-left:  10px;
-    border: 2px solid #F89900;
+    border: 2px solid var(--highlight-color);
+    display: flex;
+    justify-content: center;
+    
 }
 
-/* Ensure all text elements use --background-color */
+/* Ensure Hero text elements use --background-color (name theme) */
 
-#cover-text h1,
-#cover-text p,
-#cover-text span,
-#cover-text a {
-    color: var(--background-color); 
+#cover-text h1 {
+    color: var(--background-color);
+    margin: 0;
+    flex: 1;
+    text-align: center;
 }
 
 /* Ensure the body and html take full height */
