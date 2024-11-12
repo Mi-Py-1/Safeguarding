@@ -68,6 +68,10 @@ Navbar: I added a navbar using bootstrap and then styled this. I added a font aw
 
 Hero Section: utilised the hero image and styled with similar styles from navbar and footer. I experimented with adding some coial media links to the edges of the hero text however even after completing this I did not like the appearance of them so I removed them.
 
+Introduction and embedded youtube videos: I added these in order to support the introduction and provide links to further information simultaneously.
+
+Carousel: added to provide more of a visual navigation on the homepage to other areas of the site. 
+
 Footer: I added a basic navbar and included the font awesome icon to base the other information around. I added another "contact me" button and included some links for policy and copywrite information. I styled these and used copilot to support spacing.
 
 
