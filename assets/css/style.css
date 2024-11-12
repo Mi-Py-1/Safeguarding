@@ -166,7 +166,7 @@ p {
 }
 
 .carousel-container {
-    width: 50%;
+    width: 70%;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid var(--highlight-color);
@@ -229,4 +229,29 @@ p {
 .footer i {
     margin: 0 20px;
     align-self: center;
+}
+
+/* Custom styles for responsiveness */
+@media (max-width: 650px) {
+    .main-content {
+        padding: 20px;
+        margin-top: 20px;
+        position: relative;
+        z-index: 10;
+    }
+    .carousel-container {
+        margin-top: 20px;
+        position: relative;
+        z-index: 5;
+    }
+}
+
+@media (max-width: 900px) {
+    .main-content {
+        padding: 10px;
+        margin-top: 10px;
+    }
+    .carousel-container {
+        margin-top: 10px;
+    }
 }
