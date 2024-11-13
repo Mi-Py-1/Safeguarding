@@ -230,6 +230,14 @@ p {
     color: var(--highlight-color);
 }
 
+.text-column, p {
+    color: var(--primary-color);
+}
+
+.text-column-two p {
+    color: var(--primary-color);
+}
+
 /* Footer Styles */
 
 .footer {
