@@ -1,20 +1,26 @@
 The Safeguarding Guide
 
-[Hero Image] [The Safeguarding Guide. A website dedicated to increasing safeguarding best practice and sharing knowledge. A project using HTML 5 | CSS3 | Bootstrap.]
+The live project can be found here: [link to live project]
 
-[link to live project]
+<a href="/assets/images/DALL·E 2024-11-08 10.52.05 - A colorful, inviting illustration of a diverse family standing together, including children, adults, and older people. They are being shielded from th.webp"></a> [The Safeguarding Guide. A website dedicated to increasing safeguarding best practice and sharing knowledge. A project using HTML 5 | CSS3 | Bootstrap.]
+
 
 Introduction
 
 The Safeguarding Guide is my first project as part of the Code Institute Full Stack Development for the AI Augmented Developer 16 week Bootcamp. It is designed as an unassessed project over 3 days to enable me to demonstrate what I have learned in HTML, CSS, Bootstrap and AI in the first 5 weeks of the course.
 
-The live project can be found here:
+Responsivity examples:
+
+<a href="/assets/images/Screenshot 2024-11-13 101952.png"></a>
+<a href="/assets/images/Screenshot 2024-11-13 102129.png"></a>
+<a href="/assets/images/Screenshot 2024-11-13 102222.png"></a>
+<a href="/assets/images/Screenshot 2024-11-13 102315.png"></a>
+<a href="/assets/images/Screenshot 2024-11-13 102342.png"></a>
 
 Contents:
+- 
 
 Project Outline:
-
-<br>
 
 The Safeguarding Guide is a fictional organisation who's objective is to provide upto date information to both professionals and members of the public and will cover adults, children and animals. They will also provide training and community outreach. 
 
@@ -76,3 +82,6 @@ Footer: I added a basic navbar and included the font awesome icon to base the ot
 
 
 
+
+
+[def]: sset

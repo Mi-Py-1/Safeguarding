@@ -234,20 +234,19 @@ p {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0, 0.1);
     background-color: var(--primary-color);
-
 }
 
 .carousel-item img {
     border-radius: 8px;
 }
 
-#first-carousel h3, p {
+.first-carousel h3, p {
     color: var(--background-color);
     text-decoration: none;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-#other-carousel h3, p {
+.other-carousel h3, p {
     color: var(--background-color);
     text-decoration: none;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
