@@ -149,7 +149,7 @@ p {
 
 /* Ensure Hero text elements use --background-color (name theme) */
 
-#cover-text h1, #cover-text-abuse h1 {
+#cover-text h1, #cover-text-abuse h1, #cover-text-contact h1 {
     color: var(--background-color);
     margin: 0;
     flex: 1;
@@ -177,13 +177,13 @@ p {
 }
 
 .video-column {
-    padding: 20px;
     display: flex;
     justify-content: center;
     border: 1px solid var(--highlight-color);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0, 0.1);
     background-color: var(--primary-color);
+    margin-bottom: 20px;
 }
 
 .text-column-two {
@@ -199,23 +199,32 @@ p {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0, 0.1);
     background-color: var(--primary-color);
+    margin-bottom: 20px;
 }
 
 .carousel-container {
     width: 70%;
     margin: 0 auto;
+    margin-bottom: 20px;
     padding: 20px;
     border: 1px solid var(--highlight-color);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0, 0.1);
     background-color: var(--primary-color);
+
 }
 
 .carousel-item img {
     border-radius: 8px;
 }
 
-.carousel-caption h3, p {
+#first-carousel h3, p {
+    color: var(--background-color);
+    text-decoration: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#other-carousel h3, p {
     color: var(--background-color);
     text-decoration: none;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -255,6 +264,7 @@ p {
 .footer p,
 .footer div {
     margin: 0;
+    color: var(--background-color);
 }
 
 .footer a {
