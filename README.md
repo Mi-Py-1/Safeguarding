@@ -124,7 +124,7 @@ Pages are styled to reduce size on smaller and larger devices as expected wih th
 
 Future Features:
 
-At the start of this project I had tried to type out some of my own code for some features such as the introduction box and the footer in order to pratice my knowledge. Although this worked and looked pleasing, by the second day I discovered issues when varying the size of the screen displayed on. This with the tendancy of my bluetooth keyboard to discconnect for half seconds at a time created a lot of bug fixing during the project and this took up almost the whole of my second day. This meant there were a lot of simple tasks I was unable to complete within the time frame that I had intended to. Such as:
+At the start of this project I had tried to type out some of my own code for some features such as the introduction box and the footer in order to pratice my knowledge. Although this worked and looked pleasing, by the second day I discovered issues when varying the size of the screen displayed on. Part way through some advice I had from copilot I wanted to reset to an earlier repository but in doing this lost some work which I had to spend time redoing. This also with the tendancy of my bluetooth keyboard to discconnect for half seconds at a time created a lot of bug fixing during the project and this took up almost the whole of my second day. This meant there were a lot of simple tasks I was unable to complete within the time frame that I had intended to. Such as:
 
 A Calendar to show upcoming training.
 
@@ -176,5 +176,13 @@ Testing:
 
 HTML has been checked with a HTML validator - https://validator.w3.org/
 
-![](assets/images/)
+![index](assets/images/indexHTMLcheck.png)
+![contact](assets/images/contactHTMLchecked.png)
+![abuse](assets/images/abuseHTMLchecked.png)
+![resources](assets/images/resourcesHTMLchecked.png)
+![training](assets/images/trainingHTMLchecked.png)
+
+
 CSS has been checked with a CSS validator - https://jigsaw.w3.org/css-validator/
+![style](assets/images/styleCSSchecked.png)
+
