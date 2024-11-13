@@ -1,8 +1,9 @@
 The Safeguarding Guide
 
-The live project can be found here: [link to live project]
+The live project can be found here: [link to live project](https://github.com/Mi-Py-1/Safeguarding)
 
-<a href="/assets/images/DALL·E 2024-11-08 10.52.05 - A colorful, inviting illustration of a diverse family standing together, including children, adults, and older people. They are being shielded from th.webp"></a> [The Safeguarding Guide. A website dedicated to increasing safeguarding best practice and sharing knowledge. A project using HTML 5 | CSS3 | Bootstrap.]
+![DALL·E 2024-11-08 10.52.05 - A colorful, inviting illustration of a diverse family standing together, including children, adults, and older people. They are being shielded from th.webp](assets/images/DALL·E%202024-11-08%2010.52.05%20-%20A%20colorful,%20inviting%20illustration%20of%20a%20diverse%20family%20standing%20together,%20including%20children,%20adults,%20and%20older%20people.%20They%20are%20being%20shielded%20from%20th.webp)
+ [The Safeguarding Guide. A website dedicated to increasing safeguarding best practice and sharing knowledge. A project using HTML 5 | CSS3 | Bootstrap.]
 
 
 Introduction
@@ -11,11 +12,12 @@ The Safeguarding Guide is my first project as part of the Code Institute Full St
 
 Responsivity examples:
 
-<a href="/assets/images/Screenshot 2024-11-13 101952.png"></a>
-<a href="/assets/images/Screenshot 2024-11-13 102129.png"></a>
-<a href="/assets/images/Screenshot 2024-11-13 102222.png"></a>
-<a href="/assets/images/Screenshot 2024-11-13 102315.png"></a>
-<a href="/assets/images/Screenshot 2024-11-13 102342.png"></a>
+![Screenshot 2024-11-13 101952.png](assets/images/Screenshot%202024-11-13%20101952.png)
+![Screenshot 2024-11-13 102129.png](assets/images/Screenshot 2024-11-13 102129.png)
+![Screenshot 2024-11-13 102222.png](assets/images/Screenshot 2024-11-13 102222.png)
+![/assets/images/Screenshot 2024-11-13 102315.png](assets/images/Screenshot 2024-11-13 102315.png)
+![Screenshot 2024-11-13 102342.png](assets/images/Screenshot 2024-11-13 102342.png)
+
 
 Contents:
 - 
@@ -27,9 +29,14 @@ The Safeguarding Guide is a fictional organisation who's objective is to provide
 The final deliverable will showcase aspects of my learning from the last 5 weeks in HTML, CSS, Bootstrap and AI support. It is important that the correct design choices are made for this to ensure that the site is responsive to modern devices, adheres to accessibility requirements and is aesthetically pleasing for a user to navigate. 
 
 Key Objectives:
+- Information and best practice resources available to site visitors.
+- To be appealing to anyone who might use it.
+- To provide training events and advertise these.
+- To offer a contact page with further contact information.
+- Responsive design.
+- Pleasing imagery.
 
-
-
+<br>
 
 UX Design 
 
@@ -37,13 +44,25 @@ UX Design
 
 User Stories
 
+User Story: As a professional, I would like to access up to date legal information about safeguarding so that I can stay up to date.
+
+User Story: As a website visitor, I want a user-friendly Contact Us page so that I can easily get in touch with the team to raise concerns or discuss more of what the site offers.
+
+User Story: As a professional, I would like to access up to date legal information about safeguarding so that I can stay up to date.
+
+User Story: As a website visitor, I want to read testimonials from previous users so that I can trust the quality of the training and advice offered.
+
+User Story: As a site user I want to see clear explanations of what safeguarding is and further information.
+
+User Story: As a Site User, I want to navigate easily through the website so that I can find the information I need.
+
+User Story: I want to see a visually engaging and stylised website.
+
 <br>
 
 Colours
 
-<br>
-
-The colour was chosen based on the main hero image. This was to ensure all aspects could be pulled together pleasingly. I used coolors.co to generate a pallet out of the image and checked these with Colour Contrast Checker.
+The colour pallet was chosen based on the main hero image. This was to ensure all aspects could be pulled together pleasingly. I used coolors.co to generate a pallet out of the image and checked these with Colour Contrast Checker. Initially I was unsure about the colour pallet and so used variable tags in css so I could change it later if I wished. I chose not to in the end. Before I used my colour pallet i tested it with the Colour Contrast Checker (https://colourcontrast.cc/)
 
 Main Pallet:
 
@@ -51,7 +70,11 @@ Main Pallet:
 --midnight-green: #1A4B56; background
 --orange-peel: #F89900; highlight / hover
 
+<br>
+
 Fonts:
+
+Fonts were important in the creation of this website to ensure that it looked visually pleasing and inviting. This was especially important as some site users may be accessing the site in times of distress.
 
 The font was chosen with google fonts. The font is Sour Gummy:
 
@@ -59,7 +82,7 @@ The font was chosen with google fonts. The font is Sour Gummy:
 
 WireFrames:
 
-Wireframes have been drawn up on paper and images will be added to readme later.
+
 
 Images:
 
