@@ -186,3 +186,16 @@ HTML has been checked with a HTML validator - https://validator.w3.org/
 CSS has been checked with a CSS validator - https://jigsaw.w3.org/css-validator/
 ![style](assets/images/styleCSSchecked.png)
 
+Lighthouse extensions would not work so I was unable to get that information.
+
+bugs: i had many bugs throughout this. The main being around resizing due to not having the right coding in a couple of containers. Other bugs were resolved through validating issues and using ai copilot, previous course notes and google searching. I also had bugs whereby due to specificity and CSS order. I was mostly able to sort these with the exception of:
+
+The home button in the navbar always had black script and couldnt change this. The paragraphs in the carousel were too light but despite adding CSS specific classes I could not change this. The copyright information in the footer developed a shadow and I could not change this. 
+
+<br>
+
+Credits:
+
+I took the 2 main images from Dall-e (Chatgpt) and the rest of the images came from freepik. None of these had any copyright restrictions. 
+
+A great deal of thanks goes out to Dillon McCaffrey (facilitator), Mark Briscoe (SME) and Phil Kershaw for supporting me with my bug fixes in this project.
