@@ -175,4 +175,6 @@ Additional information on the deployment process can be found on the official Gi
 Testing: 
 
 HTML has been checked with a HTML validator - https://validator.w3.org/
+
+![](assets/images/)
 CSS has been checked with a CSS validator - https://jigsaw.w3.org/css-validator/
